@@ -1,2 +1,2 @@
-# clase
+# Clase
 Son mis ejercicios de clase
