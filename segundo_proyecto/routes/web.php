@@ -14,3 +14,11 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/saveMovie', function () {
+    return view('saveMovieWithFetch');
+});
+
+Route::get('/moviesJson', function () {
+    return view('moviesJson');
+});
